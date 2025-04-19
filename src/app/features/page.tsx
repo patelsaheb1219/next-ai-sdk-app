@@ -28,7 +28,7 @@ export default function Features() {
               <div className="card h-100">
                 <div className="card-body">
                   <h5 className="card-title">Interactive Components</h5>
-                  <p className="card-text">Experience rich, interactive components for weather updates and Wikipedia-style information.</p>
+                  <p className="card-text">Experience rich, interactive components for weather updates.</p>
                 </div>
               </div>
             </div>

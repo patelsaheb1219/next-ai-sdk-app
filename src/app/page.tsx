@@ -49,7 +49,7 @@ export default function Home() {
             <div className="col-md-4">
               <div className="p-4 border rounded-3 h-100 shadow-sm">
                 <h3 className="h5 mb-3 text-primary">Interactive Components</h3>
-                <p className="text-dark mb-0">Experience rich, structured responses for weather updates and Wikipedia-style facts.</p>
+                <p className="text-dark mb-0">Get clear and detailed weather updates with a user-friendly interactive interface and special UI components.</p>
               </div>
             </div>
             <div className="col-md-4">
