@@ -1,0 +1,10 @@
+.text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, #60a5fa, #a78bfa);
+}
+
+.min-vh-75 {
+  min-height: 75vh;
+}

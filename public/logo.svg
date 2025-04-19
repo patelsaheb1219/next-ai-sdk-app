@@ -1,0 +1,16 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="200" height="60" rx="12" fill="#f8f9fa"/>
+  <g>
+    <!-- Chat bubble -->
+    <path d="M20 20C20 16.6863 22.6863 14 26 14H46C49.3137 14 52 16.6863 52 20V30C52 33.3137 49.3137 36 46 36H30L22 42V36H26C22.6863 36 20 33.3137 20 30V20Z" fill="#0d6efd"/>
+    
+    <!-- "i" info icon -->
+    <circle cx="36" cy="25" r="2" fill="white"/>
+    <rect x="35" y="28" width="2" height="6" rx="1" fill="white"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="70" y="38" font-family="Segoe UI, sans-serif" font-size="24" fill="#212529">
+    Info<tspan fill="#0d6efd">Mate</tspan>
+  </text>
+</svg>
